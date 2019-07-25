@@ -1,0 +1,30 @@
+.kontak{
+	border: 3px solid gray;
+	border-radius: 5px;
+	margin: auto; 
+	padding: 2px;
+	background-color: pink;
+	color: green;
+}
+
+.kontak1{
+	border: 3px solid gray;
+	border-radius: 5px;
+	margin-top: 1px;
+	padding: 2px;
+	background-color: aqua;
+	color: black;
+}
+
+.kontak2{
+	border: 3px solid gray;
+	border-radius: 5px;
+	margin-top: 1px;
+	padding: 2px;
+	background-color: yellow;
+	color: blue;
+}
+
+body{
+	background-color: black;
+}
